@@ -1,6 +1,6 @@
 # Projet Pétrole
 
-Ce projet en R a été réaliser dans le cadre du cours "Économétrie des séries temporelles" de Licence 3 MIASHS. L'objectif était d'effectuer des prévisions de la production annuelle de pétrole non raffiné au Canada pour les années 2022 à 2025. Pour ce faire, nous utilisons des données historiques de 1971 à 2021 pour un pays sélectionné aléatoirement parmi ceux disponibles dans un tableau. Les données sont extraites du site de l'OCDE [OCDE - Production de pétrole brut](https://data.oecd.org/energy/crude-oil-production.htm#indicator-chart).
+Ce projet en R a été réaliser dans le cadre du cours "Économétrie, Séries Chronologiques" de Licence 3 MIASHS. L'objectif était d'effectuer des prévisions de la production annuelle de pétrole non raffiné au Canada pour les années 2022 à 2025. Pour ce faire, nous utilisons des données historiques de 1971 à 2021 pour un pays sélectionné aléatoirement parmi ceux disponibles dans un tableau. Les données sont extraites du site de l'OCDE [OCDE - Production de pétrole brut](https://data.oecd.org/energy/crude-oil-production.htm#indicator-chart).
 
 ## Approche méthodologique
 
